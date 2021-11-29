@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David Yeong</h1>
-<h3 align="center">A passionate Front-end developer who is new to this industry. Spending 8 hours a day to learn the essentials to build a beautiful website.</h3>
+<h3 align="center">A passionate Front-end developer who is new to this industry. Spending 8 hours a day building beautiful websites.</h3>
 
-- 🌱 I’m currently learning **React, React Native**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/davidyeong97](https://github.com/davidyeong97)
 
